@@ -1,2 +1,1 @@
-# quiz-two
-Quiz Two
+# Quiz Two
